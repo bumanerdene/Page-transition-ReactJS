@@ -1,0 +1,14 @@
+.genericDev{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("rb.png");
+  background-repeat: no-repeat;
+   background-size: 60px 60px;
+}
+
+#first{
+  margin-left: 10px;
+  margin-right: 20px;
+}
